@@ -5,7 +5,7 @@
 [![CI](https://github.com/yourusername/incident-ai-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/incident-ai-agent/actions)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://python.org)
 [![LangGraph](https://img.shields.io/badge/LangGraph-0.2-green.svg)](https://langchain-ai.github.io/langgraph/)
-[![Gemini](https://img.shields.io/badge/Gemini-1.5--Flash-orange.svg)](https://aistudio.google.com)
+[![Gemini](https://img.shields.io/badge/Gemini-3.5--Flash-orange.svg)](https://aistudio.google.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
