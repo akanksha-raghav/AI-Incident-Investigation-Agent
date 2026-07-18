@@ -2,7 +2,7 @@
 
 > **Production-grade multi-agent system for automated Root Cause Analysis using LangGraph, Gemini, ChromaDB, and DeepEval.**
 
-[![CI](https://github.com/yourusername/incident-ai-agent/actions/workflows/ci.yml/badge.svg)](https://github.com/yourusername/incident-ai-agent/actions)
+[![CI](https://github.com/akanksha-raghav/incident-ai-agent/badge.svg)](https://github.com/akanksha-raghav/incident-ai-agent)
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://python.org)
 [![LangGraph](https://img.shields.io/badge/LangGraph-0.2-green.svg)](https://langchain-ai.github.io/langgraph/)
 [![Gemini](https://img.shields.io/badge/Gemini-3.5--Flash-orange.svg)](https://aistudio.google.com)
